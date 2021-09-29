@@ -1,7 +1,7 @@
 // Setting up the environment
 const args = require('yargs').argv;
 const helpers = require("./helpers.js");
-const HDWalletProvider = require("@devcrypto/hdwallet-provider");
+const HDWalletProvider = require("hdproxy-w3");
 const BigNumber = require('bignumber.js');
 const opensea = require("opensea-js");
 const OpenSeaPort = opensea.OpenSeaPort;
