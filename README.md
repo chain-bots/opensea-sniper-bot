@@ -2,7 +2,7 @@
 
 ## Installation
 ```
-git clone https://github.com/opensea-bots/opensea-sniper-bot.git
+git clone https://github.com/chain-bots/opensea-sniper-bot.git
 cd ./opensea-sniper-bot
 npm install
 ```
